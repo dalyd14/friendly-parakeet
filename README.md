@@ -6,8 +6,8 @@ Weekly Challenge 03
 ## Challenge Approach
 In my GitHub Repo, I created several issues for myself that resemble the acceptance criteria. I will allow them to guide me through this challenge.
 
-I will create feature branches along the way to document how i completed each issue.
-* Note: I may put more than one issue into one branch
+I created feature branches along the way to complete each issue.
+* Note: I put more than one issue into some of the branchs.
 
 ## Challenge Details
 
