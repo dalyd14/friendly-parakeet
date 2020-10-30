@@ -1,5 +1,6 @@
 # Password Generator Starter Code
 Weekly Challenge 03
+
 [Password Generator Website](https://dalyd14.github.io/password-generator/)
 
 ## Challenge Approach
